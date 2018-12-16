@@ -1,0 +1,14 @@
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\bin\Debug\netcoreapp2.1\TA-VS-Practical.deps.json
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\bin\Debug\netcoreapp2.1\TA-VS-Practical.runtimeconfig.json
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\bin\Debug\netcoreapp2.1\TA-VS-Practical.runtimeconfig.dev.json
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\bin\Debug\netcoreapp2.1\TA-VS-Practical.dll
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\bin\Debug\netcoreapp2.1\TA-VS-Practical.pdb
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.csprojAssemblyReference.cache
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.RazorAssemblyInfo.cache
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.RazorAssemblyInfo.cs
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.AssemblyInfoInputs.cache
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.AssemblyInfo.cs
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.RazorTargetAssemblyInfo.cache
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.dll
+C:\Users\Matthew Pendleton\myProjects\TA-HTML-CSS\TA-VS-Practical\TA-VS-Practical\obj\Debug\netcoreapp2.1\TA-VS-Practical.pdb
